@@ -81,21 +81,21 @@ export const infoLists = [
 export const projectLists = [
   {
     id: 1,
-    image: "../image/todolist.png",
+    image: "/image/todolist.png",
     title: "Todo List",
     descriptions:
       "building a work todo list for a client to monitor workflow and deadlines",
   },
   {
     id: 2,
-    image: "../image/lawfirm.png",
+    image: "/image/lawfirm.png",
     title: "Law Firm Website",
     descriptions:
       "building a sleek, minimalist law firm website focused on trust, clarity, and seamless client connection.",
   },
   {
     id: 3,
-    image: "../image/magicminnie.png",
+    image: "/image/magicminnie.png",
     title: "Fitness Website",
     descriptions:
       "building a dynamic and responsive fitness website showcasing programs, trainers, and health tips to inspire an active lifestyle.",
