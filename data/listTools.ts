@@ -95,7 +95,7 @@ export const projectLists = [
   },
   {
     id: 3,
-    image: "/image/magicminnie.png",
+    image: "/image/Magicminnie.png",
     title: "Fitness Website",
     descriptions:
       "building a dynamic and responsive fitness website showcasing programs, trainers, and health tips to inspire an active lifestyle.",
