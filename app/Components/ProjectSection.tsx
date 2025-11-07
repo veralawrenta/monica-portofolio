@@ -2,7 +2,7 @@ import { projectLists } from "@/data/listTools";
 
 export default function ProjectSection() {
   return (
-    <section id="project" className="project mt-20 py-10">
+    <section id="project" className="container mx-auto px-4 mt-20">
       <h2 className="text-center font-bold text-4xl mb-2 text-gray-200">
         Projects
       </h2>

@@ -2,7 +2,7 @@ import { experiences } from "@/data/workSchema";
 
 export default function ExperienceTree() {
   return (
-    <section id="experience" className="containerw-full py-16 px-[12%] mt-20">
+    <section id="experience" className="container mx-auto px-4 mt-20">
       <h2 className="text-4xl font-extrabold mb-14 text-center">
         Professional Experience
       </h2>

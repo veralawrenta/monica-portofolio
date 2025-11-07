@@ -1,7 +1,7 @@
 export default function HeroSection() {
   return (
-    <section className="home">
-      <div className="container flex flex-col items-center justify-between max-auto gap-2 px-4">
+    <section className="container mx-auto px-4 mt-20">
+      <div className="flex flex-col items-center justify-between max-auto gap-2 px-4">
         <img
           src="/image/profile.png"
           alt="profile"

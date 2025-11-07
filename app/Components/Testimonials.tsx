@@ -2,7 +2,7 @@ import { testimonials } from "@/data/listTools"
 
 export default function Testimonials() {
   return (
-    <section className="container max-w-auto mx-auto py-16 px-6">
+    <section className="container mx-auto px-4 mt-20">
       <h2 className="text-4xl font-extrabold mb-4 text-center">Testimonials</h2>
       <p className="text-base/loose text-center opacity-60">See what people are saying about me</p>
       
