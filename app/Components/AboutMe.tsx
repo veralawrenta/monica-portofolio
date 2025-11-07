@@ -11,7 +11,7 @@ export default function AboutMe() {
   }, [])
 
   return (
-    <section className="about-me  py-10">
+    <section className="about-me py-10">
       <div className="w-2/3 mx-auto p-7 box-border bg-zinc-900 rounded-4xl" data-aos="fade-up" data-aos-duration="1000">
         <p className="text-justify">
           Hello! I am a

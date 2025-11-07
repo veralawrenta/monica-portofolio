@@ -37,7 +37,7 @@ const handleSubmit = async (e: React.FormEvent<HTMLFormElement>) => {
 }
 
   return (
-    <section id="contact" className="w-full px-[12] py-10 scroll-mt-20 ">
+    <section id="contact" className="container w-full px-[12] py-10 scroll-mt-20 ">
       <h2 className="text-center font-extrabold mb-2 text-4xl text-gray-100 text-bold">
         Let's Connect!
       </h2>

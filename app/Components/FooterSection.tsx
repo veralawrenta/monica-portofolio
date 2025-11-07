@@ -1,7 +1,7 @@
 
 export default function FooterSection() {
   return (
-    <section className="mt-32 py-4 flex md:flex-row flex-col justify-between items-center gap-6 md:gap-0">
+    <section className="container mt-32 py-4 flex md:flex-row flex-col justify-between items-center gap-6 md:gap-0">
       <h2 className="text-2xl font-bold">Portfolio</h2>
        <div className="flex items-center gap-2">
         <a href="#"></a>

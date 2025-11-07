@@ -3,7 +3,7 @@ import Image from "next/image";
 
 export default function ProfileSection() {
   return (
-    <section id="aboutme" className="w-full px-[12%] py-10 mt-20 scroll-auto">
+    <section id="aboutme" className="container w-full px-[12%] py-10 mt-20 scroll-auto">
       <h2 className="text-center mb-2 text-lg font-fraunces">Introduction</h2>
       <h3 className="text-center text-5xl font-fraunces">About Me</h3>
 
