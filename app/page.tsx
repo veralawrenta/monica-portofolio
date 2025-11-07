@@ -8,9 +8,6 @@ import "remixicon/fonts/remixicon.css";
 import ExperienceTree from "./Components/ExperienceFlow";
 import Testimonials from "./Components/Testimonials";
 
-
-
-
 export default function Home() {
   return (
     <main>
